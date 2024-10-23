@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Studio Ghibli
 
-Learn More about my favorite Movie Studio at their About Us Page: [About Studio Ghibli]([https://ghiblicollection.com/pages/about-us]
+Learn More about the iconic Movie Studio at their About Us Page: [About Studio Ghibli]([https://ghiblicollection.com/pages/about-us]
 
 ## Ponyo
 
@@ -14,7 +14,7 @@ My favorite movie is Ponyo. My husband and I watched it on a first date, which i
 
 ## Honorable Mentions
 
-Other Favorites from Studio Ghibli I would also recommend watching
+Other Favorites I would also recommend watching
 
 - The Wind Rises
 
