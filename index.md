@@ -1,23 +1,25 @@
-# My Website Title 
+# Kami's Favorite Movies
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Studio Ghibli
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Learn More about my favorite Movie Studio at their About Us Page: [About Studio Ghibli]([https://ghiblicollection.com/pages/about-us]
 
-## Images
+## Ponyo
 
-Images look like links except with an exclamation directly in front
+My favorite movie is Ponyo. My husband and I watched it on a first date, which is sentimental as well.
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![Ponyo and Sousuke](Ponyo.png)
 
-## Reminders
+## Honorable Mentions
 
-Use a dash space for unordered lists
+Other Favorites from Studio Ghibli I would also recommend watching
 
-- Spaces matter
+- The Wind Rises
 
-- Spelling matters
+- Kiki's Delivery Service
 
-- Capitalization matters
+- Howl's Moving Castle
+
+- Spirited Away
