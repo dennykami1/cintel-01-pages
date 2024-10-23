@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Studio Ghibli
 
-Learn More about the iconic Movie Studio at their About Us Page:[https://ghiblicollection.com/pages/about-us]
+Learn More about the iconic Movie Studio at their About Us Page: [Studio Ghibli Official Website](https://ghiblicollection.com/pages/about-us)
 
 ## Ponyo
 
